@@ -4,7 +4,7 @@
 
 A Gatsby plugin to use Tailwind CSS with css-in-js. Like styled-components or emotion.js
 
-## Usage
+## Installation
 
 Inside your Gatsby project
 
@@ -39,6 +39,10 @@ Add `tw` global to your `.eslintrc`
 ```
 
 You can now use Tailwind CSS with your favorite CSS-in-JS
+
+This plugin use [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components) under the hood. 
+
+## Usage
 
 ### With Emotion
 
