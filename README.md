@@ -9,7 +9,7 @@ A Gatsby plugin to use Tailwind CSS with css-in-js. Like styled-components or em
 Inside your Gatsby project
 
 ```bash
-npm install --save gatsby-plugin-tailwindcss tailwindcss`
+npm install --save gatsby-plugin-tailwindcss tailwindcss
 ```
 
 Init Tailwind configuration
