@@ -69,7 +69,29 @@ export default Home
 
 ### With Styled Components
 Install [gatsby-plugin-styled-components](https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/).
-And the rest is similar to the step using Emotion
+
+In your React Component
+
+```javascript
+import React from 'react'
+import styled from 'styled-components'
+
+
+const Container = styled.div`
+  ${tw`py-8`};
+`
+const Text = styled.p`
+  ${tw`bg-black text-white`};
+`
+
+const Home = () => (
+  <Container>
+    <Text>I am Text component made with Tailwind CSS + Styled Components</Text>
+  </Container>
+)
+
+export default Home
+```
 
 ## Using Vscode
 
