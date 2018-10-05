@@ -2,7 +2,7 @@
 
 ## What
 
-A Gatsby plugin to use Tailwind CSS with css-in-js. Like: styled-components or emotion.js
+A Gatsby plugin to use Tailwind CSS with css-in-js. Like styled-components or emotion.js
 
 ## Usage
 
