@@ -14,7 +14,7 @@ npm install --save gatsby-plugin-tailwindcss tailwindcss
 
 Init Tailwind configuration
 ```
-./node_modules/.bin/tailwind
+./node_modules/.bin/tailwind init
 ```
 It will add `tailwind.js` to your root project
 
