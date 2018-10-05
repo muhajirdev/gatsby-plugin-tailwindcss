@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-tailwindcss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Gatsby plugin to use tailwindcss with css-in-js",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "repository": "https://github.com/muhajirframe/gatsby-plugin-tailwindcss",
