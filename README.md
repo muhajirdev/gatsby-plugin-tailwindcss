@@ -18,7 +18,7 @@ npx tailwindcss init
 ```
 It will add `tailwind.js` to your root project
 
-Add the plugin to your gatsby-config.js.
+Add this plugin to your gatsby-config.js.
 
 ```
 module.exports = {
