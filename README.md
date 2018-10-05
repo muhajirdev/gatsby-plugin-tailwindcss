@@ -4,6 +4,10 @@
 
 A Gatsby plugin to use Tailwind CSS with css-in-js. Like styled-components or emotion.js
 
+## TL;DR
+
+If you want to quickly use Gatsby + Tailwind CSS + EmotionJS. There's already [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
+
 ## Installation
 
 Inside your Gatsby project
@@ -115,5 +119,6 @@ Try this snippet plugin [vscode-tailwind-styled-snippets](https://github.com/muh
 - [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
 - [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets) A Snippet Plugin For VSCode. Made with Tailwind + CSS-in-JS in mind.
 - [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components)
+- [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
 
 **Enjoy!**
