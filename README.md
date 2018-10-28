@@ -26,7 +26,7 @@ Add this plugin to your gatsby-config.js.
 
 ```
 module.exports = {
-  plugins: ['gatsby-plugin-tailwindcss],
+  plugins: ['gatsby-plugin-tailwindcss]',
 }
 ```
 
