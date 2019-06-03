@@ -116,6 +116,9 @@ Try this snippet plugin [vscode-tailwind-styled-snippets](https://github.com/muh
 - Make a pull request
 
 ## Related
+
+I recently uses [`monad-ui`](https://github.com/muhajirdev/monad-ui). If you love tailwind, you might wanna try it too :)
+
 - [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
 - [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets) A Snippet Plugin For VSCode. Made with Tailwind + CSS-in-JS in mind.
 - [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components)
